@@ -1,0 +1,12 @@
+node_modules/
+
+# Ignore artifacts:
+coverage/
+dist/
+public/
+__mocks__/
+
+commitlint.config.cjs
+jest.config.cjs
+postcss.config.cjs
+*.d.ts
