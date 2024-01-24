@@ -1,0 +1,88 @@
+{
+  "components": {
+    "footer": {
+      "ENTERPRISE_NAME": "Printer do Brasil ©"
+    },
+    "groupsDropdownMenu": {
+      "ADD_ITEM": "Adicionar grupo",
+      "EDIT_GROUP": "Editar grupo",
+      "TOOLTIP": "Ações do grupo"
+    },
+    "groupsHeader": {
+      "PAGE_TITLE": "Printer Flow | Grupos",
+      "HEADER_TITLE": "Grupos",
+      "SUBTITLE": "Aqui você pode criar e editar seus grupos de usuários."
+    },
+    "groupsSearchAndAdd": {
+      "PLACEHOLDER": "Buscar",
+      "NEW_GROUP": "Novo Grupo"
+    },
+    "groupStatusModal": {
+      "TITLE": "Tem certeza que deseja alterar este grupo?",
+      "OK_TEXT": "Sim",
+      "CANCEL_TEXT": "Não",
+      "TOOLTIP": "É necessário uma justificativa para desativar o grupo",
+      "INPUT_PLACEHOLDER": "Justifique sua resposta"
+    },
+    "getGroupsTableColumns": {
+      "CODE": "Código do Grupo",
+      "NAME": "Nome do Grupo",
+      "DETAILS": "Detalhes do Grupo",
+      "TOOLTIP": "Editar nome do grupo",
+      "ACTIVE": "Ativo",
+      "INACTIVE": "Inativo"
+    },
+    "homeTabItems": {
+      "PENDING_PROCEDURES_TITLE": "Processos pendentes",
+      "MOBILE_PROCEDURES_TITLE": "Processos",
+      "PENDING_TASKS_TITLE": "Tarefas pendentes",
+      "MOBILE_TASKS_TITLE": "Tarefas",
+      "PENDING_SIGNATURES_TITLE": "Assinaturas pendentes",
+      "MOBILE_SIGNATURES_TITLE": "Assinaturas"
+    },
+    "homeBreadcrumbItems": {
+      "APPS": "Aplicativos"
+    },
+    "barChartValues": {
+      "PERSONAL_AVERAGE": "Média pessoal",
+      "GROUP_AVERAGE": "Média do meu grupo"
+    },
+    "barGraphConfig": {
+      "TASKS": "Tarefas"
+    },
+    "gradientGraph": {
+      "FINISHED": "Concluídas"
+    }
+  },
+  "functions": {
+    "getSidebarMenuData": {
+      "HOME": "Início",
+      "REQUESTS": "Solicitações",
+      "TASKS": "Tarefas",
+      "SIGNATURES": "Assinaturas",
+      "PROCESS_MODELS": "Modelo de Processos",
+      "TASK_MODELS": "Modelo de Tarefas",
+      "REQUESTERS": "Solicitantes",
+      "GROUPS": "Grupos"
+    }
+  },
+  "pages": {
+    "home": {
+      "HELMET": "Printer Flow | Início",
+      "DASHBOARD": "Dashboard",
+      "TRACK_YOUR_STATUS_HERE": "Acompanhe aqui seu status",
+      "PENDING": "Pendentes",
+      "SELECT_THE_PERIOD": "Selecione o período",
+      "TASK_PERFORMED_PER_PERIOD": "Tarefas realizadas por período",
+      "RESPONSE_TIME": "Tempo de resposta",
+      "FINISHED_TASKS": "Tarefas concluídas",
+      "NEWS": "Novidades"
+    },
+    "groups": {
+      "MY_GROUPS": "Meus grupos",
+      "SUCCESS_UPDATE_GROUP_NAME": "Nome do grupo atualizado com sucesso!",
+      "SUCCESS_ACTIVATE_GROUP": "Grupo ativado com sucesso!",
+      "SUCCESS_DEACTIVATE_GROUP": "Grupo desativado com sucesso!"
+    }
+  }
+}

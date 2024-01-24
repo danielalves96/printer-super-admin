@@ -53,4 +53,8 @@ h6 {
   height: 100%;
 }
 
+.ant-menu-item-selected {
+  background-color: brown;
+}
+
 /* END - CSS Reset */
